@@ -13,6 +13,3 @@ btw di klik dong tombol follow nya hehe
  </p>
 </div>
 <p align="center"
-  
-![sxp-id](https://komarev.com/ghpvc/?username=Sxp-ID&label=Views&color=blue&style=plastic)
-![sxp-id](https://img.shields.io/github/followers/Sxp-ID?label=follow&style=social)</p>
